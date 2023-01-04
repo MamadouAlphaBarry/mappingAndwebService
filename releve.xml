@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<releve RIB="12478569">
+    <dateReleve>2023-01-02T11:22:15.939+01:00</dateReleve>
+    <solde>71000.0</solde>
+    <operations dateDebut="2023-01-02T11:22:15.939+01:00" dateFin="2023-01-02T11:22:15.939+01:00">
+        <operation type="CREDIT" date="2023-01-02T11:22:15.938+01:00" montant="5000.0" description="Virement"/>
+        <operation type="Debit" date="2023-01-02T11:22:15.938+01:00" montant="50000.0" description="Prelevement"/>
+        <operation type="CREDIT" date="2023-01-02T11:22:15.938+01:00" montant="25000.0" description="Virement"/>
+        <operation type="Debit" date="2023-01-02T11:22:15.938+01:00" montant="47000.0" description="chequesn guichet"/>
+        <operation type="CREDIT" date="2023-01-02T11:22:15.938+01:00" montant="2065.14" description="Virement"/>
+        <operation type="Debit" date="2023-01-02T11:22:15.938+01:00" montant="6097.08" description="Prelevement"/>
+        <operation type="CREDIT" date="2023-01-02T11:22:15.938+01:00" montant="6687.12" description="Virement"/>
+        <operation type="Debit" date="2023-01-02T11:22:15.938+01:00" montant="47000.0" description="chequesn guichet"/>
+    </operations>
+    <operations dateDebut="2023-01-02T11:22:15.939+01:00" dateFin="2023-01-02T11:22:15.939+01:00">
+        <operation type="CREDIT" date="2023-01-02T11:22:15.938+01:00" montant="5000.0" description="Virement"/>
+        <operation type="Debit" date="2023-01-02T11:22:15.938+01:00" montant="50000.0" description="Prelevement"/>
+        <operation type="CREDIT" date="2023-01-02T11:22:15.938+01:00" montant="25000.0" description="Virement"/>
+        <operation type="Debit" date="2023-01-02T11:22:15.938+01:00" montant="47000.0" description="chequesn guichet"/>
+        <operation type="CREDIT" date="2023-01-02T11:22:15.938+01:00" montant="2065.14" description="Virement"/>
+    </operations>
+</releve>
